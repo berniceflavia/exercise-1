@@ -4,7 +4,7 @@ function square (number) {
   }
   
   function pi () {
-    var pi = 3.14
+    var pi = 22/7
     return pi
   }
   
